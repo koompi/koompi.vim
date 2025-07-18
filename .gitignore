@@ -1,0 +1,29 @@
+# Ignore lazy.nvim plugin directory
+lazy-lock.json
+
+# Ignore LSP logs
+lsp.log
+
+# Ignore session files
+Session.vim
+
+# Ignore local customizations (if any)
+lua/local/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
