@@ -74,7 +74,7 @@ That's it! 🎉 Lazy.nvim will automatically install all plugins on first launch
 | Key | Action |
 |-----|--------|
 | `f` | Find File |
-| `n` | New File |
+|
 | `r` | Recent Files |
 | `g` | Find Text |
 | `c` | Config |
